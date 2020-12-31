@@ -1,0 +1,21 @@
+.current-row > td {
+    background: rgba(0, 158, 250, 0.219) !important;
+ }
+ .el-progress.is-exception .el-progress-bar__inner{
+    background-color: #f50028;
+  }
+  .el-progress.is-success .el-progress-bar__inner{
+      background-color: #00c4f5;
+  }
+*,*::after,*::before{
+    box-sizing: border-box;
+}
+
+ @font-face {
+    font-family: "59-regule";
+    src: url('/static/fonts/U59-Normal.ttf');
+ }
+ @font-face {
+    font-family: 'regular script';
+    src: url('/static/fonts/楷体_GB2312.ttf');
+}
